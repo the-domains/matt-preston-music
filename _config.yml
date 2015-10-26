@@ -1,0 +1,23 @@
+name: Matt Preston Music
+favicon: null
+layout_spectrum: 0.4964557494968176
+typography_spectrum: 0.5613568013068289
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.24355368921533227
+  lightness: 0.04582339967601001
+  saturation: 0.5395146603696048
+  rhythmicContrast: 0.0512674490455538
+purpose: []
